@@ -1,0 +1,44 @@
+{
+    "configurations": [
+        {
+            "name": "ESP8266",
+            "includePath": [
+                "/home/t400/ESP8266/esp-open-sdk/xtensa-lx106-elf/xtensa-lx106-elf/sysroot/usr/include/",
+                "/home/t400/ESP8266/esp-open-sdk/xtensa-lx106-elf/xtensa-lx106-elf/sysroot/usr/include/json/",
+                "/home/t400/ESP8266/esp-open-sdk/xtensa-lx106-elf/xtensa-lx106-elf/sysroot/usr/include/arch/",
+                "/home/t400/ESP8266/esp-open-sdk/xtensa-lx106-elf/xtensa-lx106-elf/sysroot/usr/include/lwip/",
+                "/home/t400/ESP8266/esp-open-sdk/xtensa-lx106-elf/xtensa-lx106-elf/sysroot/usr/include/lwip/app/",
+                "/home/t400/ESP8266/esp-open-sdk/xtensa-lx106-elf/xtensa-lx106-elf/sysroot/usr/include/machine/",
+                "/home/t400/ESP8266/esp-open-sdk/xtensa-lx106-elf/xtensa-lx106-elf/sysroot/usr/include/netif/",
+                "/home/t400/ESP8266/esp-open-sdk/xtensa-lx106-elf/xtensa-lx106-elf/sysroot/usr/include/rpc/",
+                "/home/t400/ESP8266/esp-open-sdk/xtensa-lx106-elf/xtensa-lx106-elf/sysroot/usr/include/sys/",
+                "/home/t400/ESP8266/esp-open-sdk/xtensa-lx106-elf/xtensa-lx106-elf/sysroot/usr/include/xtensa/",
+                "/home/t400/ESP8266/esp-open-sdk/xtensa-lx106-elf/xtensa-lx106-elf/sysroot/usr/include/xtensa/config/",
+                "/home/t400/ESP8266/esp-open-sdk/xtensa-lx106-elf/xtensa-lx106-elf/include/",
+                "${workspaceRoot}"
+            ],
+            "defines": [],
+            "intelliSenseMode": "clang-x64",
+            "browse": {
+                "path": [
+                    "/home/t400/ESP8266/esp-open-sdk/xtensa-lx106-elf/xtensa-lx106-elf/sysroot/usr/include/",
+                    "/home/t400/ESP8266/esp-open-sdk/xtensa-lx106-elf/xtensa-lx106-elf/sysroot/usr/include/json/",
+                    "/home/t400/ESP8266/esp-open-sdk/xtensa-lx106-elf/xtensa-lx106-elf/sysroot/usr/include/arch/",
+                    "/home/t400/ESP8266/esp-open-sdk/xtensa-lx106-elf/xtensa-lx106-elf/sysroot/usr/include/lwip/",
+                    "/home/t400/ESP8266/esp-open-sdk/xtensa-lx106-elf/xtensa-lx106-elf/sysroot/usr/include/lwip/app/",
+                    "/home/t400/ESP8266/esp-open-sdk/xtensa-lx106-elf/xtensa-lx106-elf/sysroot/usr/include/machine/",
+                    "/home/t400/ESP8266/esp-open-sdk/xtensa-lx106-elf/xtensa-lx106-elf/sysroot/usr/include/netif/",
+                    "/home/t400/ESP8266/esp-open-sdk/xtensa-lx106-elf/xtensa-lx106-elf/sysroot/usr/include/rpc/",
+                    "/home/t400/ESP8266/esp-open-sdk/xtensa-lx106-elf/xtensa-lx106-elf/sysroot/usr/include/sys/",
+                    "/home/t400/ESP8266/esp-open-sdk/xtensa-lx106-elf/xtensa-lx106-elf/sysroot/usr/include/xtensa/",
+                    "/home/t400/ESP8266/esp-open-sdk/xtensa-lx106-elf/xtensa-lx106-elf/sysroot/usr/include/xtensa/config/",
+                    "/home/t400/ESP8266/esp-open-sdk/xtensa-lx106-elf/xtensa-lx106-elf/include/",
+                    "${workspaceRoot}"
+                ],
+                "limitSymbolsToIncludedHeaders": true,
+                "databaseFilename": ""
+            }
+        }  
+    ],
+    "version": 3
+}

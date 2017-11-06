@@ -1,0 +1,8 @@
+{
+    "files.associations": {
+        "osapi.h": "c",
+        "user_config.h": "c",
+        "string.h": "c",
+        "ets_sys.h": "c"
+    }
+}
